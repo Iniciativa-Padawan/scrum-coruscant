@@ -21,7 +21,7 @@ Arquivo Markdown sobre Star Wars
     - Ano de Lançamento
     - Pôster
     - Pontuação do rotten tomatoes
-    - Personagem que represente:
+    - *1* Personagem que represente:
       - Nome
       - Foto
       - Descrição      

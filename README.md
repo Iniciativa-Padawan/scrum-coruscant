@@ -2,7 +2,7 @@
 
 Entregar o arquivo Markdown
 
-##Definição de Pronto(DoD)
+## Definição de Pronto(DoD)
 
 - Atividade deverá estar sincronizada na branch product no arquivo readme.md
 - Atividade deverá estar disponível para visualização na página https://iniciativa-padawan.github.io/scrum-corsucant/

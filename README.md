@@ -14,7 +14,7 @@ Arquivo Markdown sobre Star Wars
 - Atividade deverá estar disponível para visualização na página https://iniciativa-padawan.github.io/scrum-corsucant/
 
 ## Atividades
-- Disclaimer sobre a franquia Star Wars falando sobre seu criador e narrativa principal 
+- Resumo sobre a franquia Star Wars falando sobre seu criador e narrativa principal 
 - Listar os filmes
   - Informações sobre os filmes:
     - Título
